@@ -4,10 +4,13 @@
 
 This is a guided project on how to use Python to forecast time series data.
 
-## Data
+## Packages
 
+Using Python data analysis, statistical and time series packages. Run the following commands in the terminal to install the packages:
 
-## Analysis
+``` bash
+pip install reqruiements.txt
+```
 
 ## Acknowledgements
 
